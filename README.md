@@ -2,7 +2,7 @@
 
 I'm Michele Conti, I'm currently a MSc student in computer science @ La Sapienza, Rome.
 
-I'm mainly focused on machine learning/deep learning, but I honestly love learning new things in general! CS is not actually the only interest I've got, I'm also interested in mathematics (for which I've got a bachelor degree :P), but I also like reading stuff. I mean, stuff! Everything. And I'm still a kid who's reading Harry Potter for the 10th time! ⚡
+I'm mainly focused on machine learning/deep learning, but I honestly love learning new things in general! CS is not actually the only interest I've got, I'm also interested in mathematics (for which I've got a bachelor degree :P), and I also like reading stuff. I mean, stuff! Everything. And I'm still a kid who's reading Harry Potter for the 10th time! ⚡
 
 I'll keep here a short list of interesting projects I've been working on:
 
