@@ -1,12 +1,12 @@
-### Hey everybody :v:
+### Hey everybody 🤞
 
 I'm Michele Conti, I'm currently a MSc student in computer science @ La Sapienza, Rome.
 
-I'm mainly focused on machine learning/deep learning, but I honestly love learning new things in general! CS is not actually the only interest I've got, I'm also interested in mathematics (for which I've got a bachelor degree 🎓), and I also like reading stuff. I mean, stuff! Everything. I'm still a kid who's reading Harry Potter for the 10th time! ⚡
+I'm mainly focused on machine learning and deep learning, but I honestly love learning new things in general. Computer science is obviously not the only interest I've got, I'm also interested in mathematics (for which I've got a bachelor degree 🎓).
 
-Finally, I like to write (and read) really clean LaTeX code. Imagine my face when I discovered that Github's markdown doesn't support it.
+I love reading stuff, everything. You could find me reading a Nature scientific paper, or losing my mind reading for the 10th time Harry Potter.
 
-Yep, I'm one of those guys.
+I love Python. I love papers written with LaTeX. I hate ugly things.
 ### What I'm working on 👨🏻‍💻
 I'll keep here a short list of interesting projects I've been working on:
 
