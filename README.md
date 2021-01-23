@@ -11,6 +11,7 @@ I love Python. I love papers written with LaTeX. I hate ugly things.
 I'll keep here a short list of interesting projects I've been working on:
 
 * [Image colorization with Deep Learning](https://github.com/mikcnt/aml-project): building and training from scratch a model able to colorize b&w images using Deep Learning. Based on the paper [Colorful Image Colorization](https://arxiv.org/abs/1603.08511) by Zhang et al.
+* [Image denoising using DCGAN](https://github.com/mikcnt/cv-denoising) (🚧): implementation of a deep convolutional GAN able to denoise images. Trained on frames of animated movies.
 * [Search Engines](https://github.com/mikcnt/adm-homework-3): scraping Goodreads and building a search engine on top of its data.
 * [HyperLogLog and Clustering](https://github.com/mikcnt/adm-homework-4): implementation of HyperLogLog and K-Means clustering. Analysis of their performance.
 * [Wikicat hyperlink graph, PageRank](https://github.com/mikcnt/adm-homework-5): implementation of the PageRank algorithm on top of a reduced version of the Wikipedia hyperlinks graph.
