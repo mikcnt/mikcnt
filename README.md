@@ -8,7 +8,5 @@ I'm mainly focused on machine learning and deep learning, but I honestly love le
 I'll keep here a short list of interesting projects I've been working (or I'm still working) on:
 
 * [Image colorization with Deep Learning](https://github.com/mikcnt/aml-project): building and training from scratch a model able to colorize b&w images using Deep Learning. Based on the paper [Colorful Image Colorization](https://arxiv.org/abs/1603.08511) by Zhang et al.
-* Image denoising ([Encoder-Decoder](https://github.com/mikcnt/cv-denoising-encoder) & [DCGAN](https://github.com/mikcnt/cv-denoising-gan)): two different approaches for the image denoising problem: encoder-decoder CNN vs DCGAN.
-* [Search Engines](https://github.com/mikcnt/adm-homework-3): scraping Goodreads and building a search engine on top of its data.
-* [HyperLogLog and Clustering](https://github.com/mikcnt/adm-homework-4): implementation of HyperLogLog and K-Means clustering. Analysis of their performance.
-* [Wikicat hyperlink graph, PageRank](https://github.com/mikcnt/adm-homework-5): implementation of the PageRank algorithm on top of a reduced version of the Wikipedia hyperlinks graph.
+* [Image denoising with Deep Learning](https://github.com/mikcnt/cv-denoising-encoder): synthetization of artificial noise to simulate path tracing + implementation of a deep autoencoder to denoise low sampled path traced images.
+* [GANs for trading](https://github.com/EmaMerca/GANs-for-trading): synthetic trading agent based on generative adversarial networks for the stock market simulation ABIDES.
