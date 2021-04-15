@@ -1,4 +1,4 @@
-### Hey everybody 🖖
+### Hey everybody! 🖖
 
 I'm Michele Conti, MSc student in computer science @ La Sapienza, Rome.
 
