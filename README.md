@@ -1,4 +1,4 @@
-### Hey everybody! 🖖
+### Hey everybody 🖖
 I'm Michele Conti, MSc student in computer science @ La Sapienza, Rome.
 
 I'm mainly focused on machine learning and deep learning, but I honestly love learning new things in general. Computer science is obviously not the only interest I've got, I'm also interested in mathematics (for which I've got a bachelor degree 🎓).
