@@ -8,4 +8,3 @@ I'll keep here a short list of interesting projects I've been working (or I'm st
 
 * [Image colorization with Deep Learning](https://github.com/mikcnt/aml-project): building and training from scratch a model able to colorize b&w images using Deep Learning. Based on the paper [Colorful Image Colorization](https://arxiv.org/abs/1603.08511) by Zhang et al.
 * [Image denoising with Deep Learning](https://github.com/mikcnt/cv-denoising-encoder): synthetization of artificial noise to simulate path tracing + implementation of a deep autoencoder to denoise low sampled path traced images.
-* [GANs for trading](https://github.com/EmaMerca/GANs-for-trading): synthetic trading agent based on generative adversarial networks for the stock market simulation ABIDES.
